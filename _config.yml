@@ -9,10 +9,10 @@
 locale                   : "en-US"
 title                    : "WENYUAN LI / HOMEPAGE"
 title_separator          : "-"
-name                     : &name "Ph.D Candidate at UCLA"
+name                     : &name "WENYUAN's HOMEPAGE"
 description              : &description "personal description"
 url                      : https://wenyuan-vincent-li.github.io/Homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "Homepage" # the subpath of your site, e.g. "/blog"
 repository               : "Homepage.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
