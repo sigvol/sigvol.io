@@ -27,4 +27,4 @@ drive their motion. This room-temperature creation and manipulation of skyrmions
 skyrmionic devices. The results bring skyrmionic memory and logic concepts closer to realization in industrially relevant and
 manufacturable thin film material systems.
 
-[Download paper here](http://academicpages.github.io/files/skyrmions.pdf)
+[Download paper here](http://Wenyuan-Vincent-Li.github.io/files/skyrmions.pdf)
