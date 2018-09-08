@@ -1,7 +1,7 @@
 ---
 title: "TA: LS1 Evolution, Ecology, and Biodiversity"
 collection: teaching
-type: "General Education Class"
+type: "General education course"
 permalink: /teaching/2017-fall-teaching
 venue: "University of California, Los Angeles, Life Science Department"
 date: 2017-09-20
