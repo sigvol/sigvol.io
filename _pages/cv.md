@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my single-paged CV [__here__](https://wenyuan-vincent-li.github.io/files/Li_Wenyuan_CV_2018_9_9_ENG.pdf).
+You can also download my single-paged Resume [__here__](https://wenyuan-vincent-li.github.io/files/Li_Wenyuan_CV_2018_9_9_ENG.pdf).
 
 Education
 ======

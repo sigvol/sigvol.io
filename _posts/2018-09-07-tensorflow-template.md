@@ -1,7 +1,7 @@
 ---
 title: 'Tensorflow Template: A proposal for good practice using tensorflow'
 date: 2018-09-07
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2018/09/blog-post-1/
 tags:
   - machine learning
   - tensorflow
