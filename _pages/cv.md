@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download my single-paged CV [__here__](https://wenyuan-vincent-li.github.io/files/Li_Wenyuan_CV_2018_9_9_ENG.pdf).
+
 Education
 ======
 * B.S. in Engineering, Zhejiang University, 2014
 * M.S. in Electrical Engineering, University of California, Los Angeles, 2016
 * Ph.D in Electrical and Computer Engineering, University of California, Los Angeles, 2020 (expected)
 
-Research experience
+Research Experience
 ======
 * Rare disease detection using Generative Adversarial Network (GAN) (07/18-09/18)
     * Work on developing a semi-supervised rare disease detection 
@@ -35,11 +37,12 @@ Research experience
     * Design and emulate neural dynamics on Neuromorphic Circuits – 
       Spikey; a brain phase diagram was constructed for achieving better 
       mental disease prediction and faster neuromorphic computing.
-      [Read More](https://wenyuan-vincent-li.github.io/publication/2018-09-30-neuraldynamics)
+      [__Read More__](https://wenyuan-vincent-li.github.io/publication/2018-09-30-neuraldynamics)
 
 * Skyrmion tracking by optical flow method (12/14-04/15)
     * Matlab programing to track Skyrmion moving using optical 
-      flow algorithm. [Read More](https://wenyuan-vincent-li.github.io/publication/2016-02-11-skyrmions) 
+      flow algorithm.
+      [__Read More__](https://wenyuan-vincent-li.github.io/publication/2016-02-11-skyrmions)
 
 Intern Experience
 ======
@@ -83,7 +86,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Activity, membership and service
+Activity, Membership, and Service
 ======
 * IEEE student membership
 * Member of UCLA-C3S (Chinese-American Students and Scholars Seminar)
