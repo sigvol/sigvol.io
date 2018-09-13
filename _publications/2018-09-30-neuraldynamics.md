@@ -32,3 +32,5 @@ neuron models, may be used to further enhance the understanding of human brain
 function and accelerate the development of neuroscience research.
 
 [Download paper here](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01103)
+
+[Find code here](https://github.com/Wenyuan-Vincent-Li/Neural_Dynamics_On_Spikey)
