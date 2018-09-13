@@ -146,9 +146,10 @@ Other folders and files are:
     This base function includes import_meta_graph, extend_meta_graph, freeze_mode,
     etc.
     * __Deploy.py:__ a main function that deploys the model.
-    * __utils.py:__ utility functions that being used by other deploy 
-    functions.
-
+    * __construct_deploy_model.py:__ construct the model for production use. Put placeholder
+    as an input interface.
+    * __model_inspect.py:__ functions that can be used to inspect your trained ckpt file.
+    
 ### Examples of using this template:
 
 
