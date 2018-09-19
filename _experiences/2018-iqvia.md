@@ -17,4 +17,5 @@ Our model leverage the large amount of unlabeled dataset with a limited labeled
 dataset, and applies generative model to boost the prediction performance. 
 The result of our best model beats the common supervised-learning methods 
 (logistic regression, neural network, and random forest) by around 5% in terms 
-of precision-recall AUC score.
+of precision-recall AUC score. We also build up a web API for user to interact 
+with our model using Flask.
