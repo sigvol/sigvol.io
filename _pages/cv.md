@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my single-paged Resume [__here__](https://wenyuan-vincent-li.github.io/files/Li_Wenyuan_CV_2018_9_9_ENG.pdf).
+You can also download my single-paged Resume [__here__]({{ site.baseurl }}/files/Li_Wenyuan_CV.pdf).
 
 Education
 ======
@@ -25,24 +25,26 @@ Research Experience
       The model performance beats common classifier (logistic regression, 
       neural network, and random forest) by 5% in terms of 
       precision-recall AUC score.
+      [__Read More__]({{ site.baseurl }}/experiences/2018-IQVIA)
 
 * Medical image segmentation based on multitask learning (11/17-06/18)
     * Design a two-branch deep learning “Path R-CNN” 
       architecture which decouple the classification and segmentation 
       task. Region proposal network inspired by Mask R-CNN was 
       later added to our model. The new architecture boosts 
-      the segmentation performance around 5% in mIOU.
+      the segmentation performance around 7% in mIOU.
+      [__Read More__]({{ site.baseurl }}/publication/2018-10-02-path-rcnn)
 
 * Collective neural dynamics: for better mental disease prediction and faster neuromorphic computing (06/15-09/17)
     * Design and emulate neural dynamics on Neuromorphic Circuits – 
       Spikey; a brain phase diagram was constructed for achieving better 
       mental disease prediction and faster neuromorphic computing.
-      [__Read More__](https://wenyuan-vincent-li.github.io/publication/2018-09-30-neuraldynamics)
+      [__Read More__]({{ site.baseurl }}/publication/2018-09-30-neuraldynamics)
 
 * Skyrmion tracking by optical flow method (12/14-04/15)
     * Matlab programing to track Skyrmion moving using optical 
       flow algorithm.
-      [__Read More__](https://wenyuan-vincent-li.github.io/publication/2016-02-11-skyrmions)
+      [__Read More__]({{ site.baseurl }}/publication/2016-02-11-skyrmions)
 
 Intern Experience
 ======
