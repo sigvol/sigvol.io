@@ -16,6 +16,6 @@ In this paper, we present a semi-supervised learning framework for rare disease 
 Our method takes advantage of the large amount of unlabeled data for disease detection and achieves the best results in 
 terms of precision-recall score compared to baseline techniques.
 
-[Download paper here](https:)
+[Download paper here](https://arxiv.org/abs/1812.00547)
 
 [Find code here](https://github.com/Wenyuan-Vincent-Li/GAN_Rare_Disease_Detection)
