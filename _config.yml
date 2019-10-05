@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "WENYUAN LI / HOMEPAGE"
+locale                   : "China"
+title                    : "JIAWEI YANG / HOMEPAGE"
 title_separator          : "-"
-name                     : &name "WENYUAN LI"
+name                     : &name "JIAWEI YANG"
 description              : &description "personal description"
 url                      : https://sigvol.github.io/sigvol.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenyuan (Vincent) Li"
+  name             : "Jiawei Yang"
   avatar           : "personal_profile.png"
-  bio              : "Ph.D Candidate in ECE at UCLA"
-  location         : "Los Angeles, CA, USA"
+  bio              : "Southeast univercity"
+  location         : "Nanjing, Jiangsu, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=G4gYCIAAAAAJ&hl=en"
-  email            : liwenyuan.zju@gmail.com
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -264,7 +264,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
