@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "JIAWEI YANG / HOMEPAGE"
+title                    : " HOMEPAGE"
 title_separator          : "-"
-name                     : &name "JIAWEI YANG"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://sigvol.github.io/sigvol.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiawei Yang"
+  name             : ""
   avatar           : "personal_profile.png"
   bio              : "Southeast univercity"
   location         : "Nanjing, Jiangsu, China"
